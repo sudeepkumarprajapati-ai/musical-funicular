@@ -1,0 +1,30 @@
+From: D. Kowalski (Program Manager)
+To: M. Chen (Quality), J. Alvarez (Procurement)
+Date: 2025-12-11 09:14
+Subject: RE: Batch 4471 - need this released today
+
+Team - I know inspection is still working through 4471 but we are already two
+days behind on the downstream assembly line because of this. Unless there's a
+clear safety issue, can we just release it and deal with paperwork after? We
+can't afford another week of schedule slip on this program.
+
+---
+From: M. Chen (Quality)
+To: D. Kowalski, J. Alvarez
+Date: 2025-12-11 10:02
+Subject: RE: RE: Batch 4471 - need this released today
+
+David - understood on schedule pressure, but I want the inspection data
+reviewed properly before we release anything into production. I'll have an
+update by end of day.
+
+---
+From: J. Alvarez (Procurement)
+To: M. Chen, D. Kowalski
+Date: 2025-12-11 10:20
+Subject: RE: RE: RE: Batch 4471 - need this released today
+
+FYI Sterling mentioned on a call last week that they had a bar stock supplier
+changeover partway through this run - I don't have details, might be worth
+checking the traveler. Also worth noting Sterling has had zero quality escapes
+with us over the last 3 years, for context.

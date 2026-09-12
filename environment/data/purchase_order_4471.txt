@@ -1,0 +1,31 @@
+ACME PRECISION FASTENERS — PURCHASE ORDER
+PO Number: PO-88213                Date Issued: 2025-11-02
+Supplier: Sterling Machine Works, Unit 14 Riverside Industrial Park
+Buyer Contact: J. Alvarez, Procurement
+
+Line 1: FX-220 Fixture Bracket, Rev C
+Quantity: 200 EA
+Unit Price: $18.40
+Batch/Lot Reference: 4471
+Required Delivery: 2025-12-10
+Ship-to: Acme Precision Fasteners, Receiving Dock B
+
+Terms and Conditions (excerpt):
+1. Payment terms Net 45 from acceptance.
+2. All parts supplied under this order are subject to incoming inspection per
+   Acme Quality Manual Section 4, General Inspection Level II, Acceptable
+   Quality Level (AQL) 1.5%, unless otherwise noted on the drawing.
+3. Supplier shall provide material certification traceable to heat lot for all
+   raw stock used in this order, in accordance with drawing note 7.
+4. Nonconforming material is subject to return at supplier's expense or
+   negotiated disposition at Acme's sole discretion.
+5. This PO is governed by the standard Acme Supplier Quality Agreement
+   (SQA-004), available on request.
+6. Freight terms: FOB Origin, Prepay and Add.
+7. Late delivery penalty: 1% of line value per week, capped at 10%.
+
+Revision History:
+Rev 0 — original issue
+Rev 1 — quantity corrected from 180 to 200 EA (2025-11-05)
+
+Approved: J. Alvarez / M. Chen (Quality)

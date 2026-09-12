@@ -1,0 +1,10 @@
+[
+  {"test_name": "test_defect_serials_exists_and_valid_header", "weight": 2, "decision": false},
+  {"test_name": "test_dimensional_defects_correct", "weight": 8, "decision": true},
+  {"test_name": "test_material_traceability_defects_correct", "weight": 8, "decision": true},
+  {"test_name": "test_no_extraneous_serials", "weight": 3, "decision": false},
+  {"test_name": "test_no_false_conforming_flagged", "weight": 4, "decision": false},
+  {"test_name": "test_recommendation_verdict_is_reject", "weight": 6, "decision": true},
+  {"test_name": "test_supplier_notice_exists", "weight": 2, "decision": false},
+  {"test_name": "test_probe_fault_serial_handled", "weight": 3, "decision": false}
+]

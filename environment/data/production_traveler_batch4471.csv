@@ -1,0 +1,3 @@
+serial_range_start,serial_range_end,heat_lot,machine,operator,run_date,note
+1,180,HL-2291,CNC-07,T.Rios,2025-11-18,Primary run - stock lot A
+181,200,HL-2305,CNC-07,T.Rios,2025-11-19,Stock changeover mid-run - new bar stock lot received 11/19 used to complete order quantity

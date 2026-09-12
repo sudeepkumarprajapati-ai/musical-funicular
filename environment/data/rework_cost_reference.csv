@@ -1,0 +1,5 @@
+category,description,unit_cost_usd
+dimensional_rework,Re-drill and re-inspect single hole pattern,42.50
+material_recert,Supplier-side re-certification per heat lot,0.00
+full_batch_return,Return entire batch to supplier (freight and restocking),1850.00
+scrap_and_replace,Scrap nonconforming unit and replace from new stock,65.00

@@ -1,0 +1,24 @@
+ACME PRECISION FASTENERS — QUALITY MANUAL
+Section 4.2 — Incoming Inspection Sampling Plans (Attributes)
+
+The following sampling plan applies for General Inspection Level II. Locate the
+row matching the lot size, then read the sample size and the Acceptance (Ac) /
+Rejection (Re) defect counts under the applicable AQL column. A lot is rejected
+if the number of nonconforming units found in the sample is greater than or
+equal to Re.
+
+Lot Size Range | Sample Size (n) | AQL 1.0% Ac/Re | AQL 1.5% Ac/Re | AQL 2.5% Ac/Re
+51-90          | 13              | 0/1            | 1/2            | 1/2
+91-130         | 20              | 1/2            | 1/2            | 2/3
+131-200        | 32              | 1/2            | 1/2            | 2/3
+201-280        | 32              | 1/2            | 2/3            | 3/4
+281-500        | 50              | 2/3            | 3/4            | 5/6
+
+Notes:
+- "Nonconforming" means the unit fails any inspected characteristic called out
+  on the applicable drawing.
+- Sample units are to be selected at approximately regular intervals across the
+  full lot per Work Instruction WI-221.
+- This table applies to attribute (pass/fail) sampling. Dimensional
+  characteristics are evaluated against the tolerance stated on the applicable
+  engineering drawing.

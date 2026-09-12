@@ -1,0 +1,19 @@
+[OCR SCAN - QUALITY DOCUMENT, SOME CHARACTERS UNCERTAIN]
+
+STERLING MACHINE WORKS
+CERTIFICATE OF CONFORMANCE - MATERIAL
+Cert No: SMW-C-30456
+Date: 2O25-11-14
+
+Customer: Acme Preclsion Fasteners
+PO Reference: PO-88213 / Batch 4471
+Material: 6061-T6 Aluminum Bar Stock
+Heat Lot: HL-2291
+Mill Source: Cascade Aluminum Mill, Heat Cert #CAM-77821
+Quantity Certified: 180 pcs equivalent
+
+This is to certify that the material identified above conforms to
+AMS-QQ-A-250/11 and all applicable specifications referenced on the
+purchase order. Mechanical and chemical test results available on request.
+
+Authorized: R. Brandt, QC Manager, Sterling Machine Works
