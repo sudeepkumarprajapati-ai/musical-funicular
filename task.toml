@@ -1,0 +1,22 @@
+[task]
+name = "quality/batch-acceptance-review-4471"
+description = "Manufacturing quality engineer decides whether to accept, reject, or conditionally accept an incoming machined-part batch based on messy, cross-referenced CMM, contractual, and traceability data."
+category = "engineering"
+tags = ["manufacturing", "quality-engineering", "gd-and-t", "supplier-management", "decision-analysis"]
+
+[environment]
+allow_internet = false
+
+[limits]
+agent_timeout_sec = 3600
+verifier_timeout_sec = 120
+cpu = 1
+memory_gb = 2
+gpu_count = 0
+
+[artifacts]
+outputs = [
+  "output/recommendation.md",
+  "output/defect_serials.csv",
+  "output/supplier_notice.md",
+]

@@ -1,0 +1,29 @@
+ENGINEERING DRAWING EXCERPT — DWG-FX220-C, Rev C
+Part: FX-220 Fixture Bracket
+Material: 6061-T6 Aluminum, per spec AMS-QQ-A-250/11
+
+Feature: Mounting Hole Pattern (4x diameter 6.5 mm holes, Datum A|B|C established)
+
+Note 12 (Position Tolerance): Each hole location shall be within a true position
+tolerance of diameter 0.25 mm relative to Datum A|B|C, evaluated Regardless of
+Feature Size (RFS) — no bonus tolerance applies.
+
+True position is computed from the measured deviation of the actual hole center
+from its nominal (X,Y) location:
+
+    True Position (TP) = 2 x sqrt(dx^2 + dy^2)
+
+where dx and dy are the measured deviations, in millimetres, from nominal in the
+X and Y directions respectively.
+
+A hole is conforming only if TP <= 0.25 mm.
+
+Note 7 (Material Traceability): All raw material used for parts on this drawing
+shall be traceable to a certified heat lot. A material certification matching
+the heat lot actually used in production must accompany each shipment. Parts
+produced from a heat lot without a matching certification are non-conforming
+regardless of dimensional results.
+
+Note 15: Surface finish, chamfer, and thread callouts on this drawing are not
+subject to incoming sampling inspection under standard receiving protocol
+(inspected at final assembly instead).
